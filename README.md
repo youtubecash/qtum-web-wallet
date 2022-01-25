@@ -1,7 +1,7 @@
 # qtum-web-wallet
-A web wallet for QTUM.
-yarn insta
-yarn build
-npm install -g serve
-serve -s dist
- http://localhost:3000  
+A web wallet for QTUM.<br/>
+yarn install<br/>
+yarn build<br/>
+npm install -g serve<br/>
+serve -s dist<br/>
+ http://localhost:3000  <br/>
